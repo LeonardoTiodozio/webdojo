@@ -5,6 +5,7 @@
 # 🚀 WebDojo
 
 O WebDojo é um projeto de prática de automação de testes com Cypress, desenvolvido durante o Curso Ninja do Cypress ministrado por Fernando Papito 🥷💻.
+
 Aqui, pratiquei e aprimorei minhas habilidades em testes end-to-end, integração com APIs e pipelines de CI/CD, de forma prática e didática.
 
 # 📸 Demonstração
@@ -13,13 +14,21 @@ Aqui, pratiquei e aprimorei minhas habilidades em testes end-to-end, integraçã
 # 🛠️ Tecnologias Utilizadas
 
 Git & GitHub 🌍 – Controle de versão
+
 Bash 💻 – Execução de scripts
+
 Visual Studio Code 🖥️ – Editor de código
+
 Node.js 22+ 🟢 – Runtime JavaScript
+
 npm ou yarn 📦 – Gerenciador de pacotes
+
 Cypress 🧪 – Framework de testes E2E
+
 Docker & Docker Compose 🐳 – Ambiente isolado
+
 PostgreSQL 🗄 – Banco de dados relacional
+
 Bruno 🔌 – Cliente de API para testes
 
 # 🎯 O que Aprendi com este Projeto
