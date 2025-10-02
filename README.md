@@ -71,19 +71,19 @@ Durante o desenvolvimento do WebDojo no Curso Ninja do Cypress, adquiri habilida
 
 Siga os passos abaixo para rodar o projeto localmente:
 
-Clone o repositório
+--Clone o repositório
 
 git clone https://github.com/seuusuario/webdojo.git
 
-Entre na pasta do projeto
+--Entre na pasta do projeto
 
 cd webdojo
 
-Instale as dependências
+--Instale as dependências
 
 npm install
 
-Abra o Cypress Test Runner
+--Abra o Cypress Test Runner
 
 npx cypress open
 
