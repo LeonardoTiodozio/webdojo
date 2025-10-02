@@ -73,7 +73,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 --Clone o repositório
 
-git clone https://github.com/seuusuario/webdojo.git
+git clone https://github.com/LeonardoTiodozio/webdojo.git
 
 --Entre na pasta do projeto
 
