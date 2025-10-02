@@ -2,15 +2,15 @@
 
 ![WebDojo Cover](.github/cover.png)
 
-#🚀 WebDojo
+# 🚀 WebDojo
 
 O WebDojo é um projeto de prática de automação de testes com Cypress, desenvolvido durante o Curso Ninja do Cypress ministrado por Fernando Papito 🥷💻.
 Aqui, pratiquei e aprimorei minhas habilidades em testes end-to-end, integração com APIs e pipelines de CI/CD, de forma prática e didática.
 
-#📸 Demonstração
+# 📸 Demonstração
 
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 Git & GitHub 🌍 – Controle de versão
 Bash 💻 – Execução de scripts
@@ -22,7 +22,7 @@ Docker & Docker Compose 🐳 – Ambiente isolado
 PostgreSQL 🗄 – Banco de dados relacional
 Bruno 🔌 – Cliente de API para testes
 
-#🎯 O que Aprendi com este Projeto
+# 🎯 O que Aprendi com este Projeto
 
 Durante o desenvolvimento do WebDojo no Curso Ninja do Cypress, adquiri habilidades como:
 -Criar testes automatizados rápidos e confiáveis com Cypress.
@@ -32,7 +32,7 @@ Durante o desenvolvimento do WebDojo no Curso Ninja do Cypress, adquiri habilida
 -Desenvolver e testar uma API REST do zero com Node.js e Express.
 -Integrar testes à Cypress Cloud para monitoramento completo da suíte de testes.
 
-#📚 Conteúdo do Curso Aplicado
+# 📚 Conteúdo do Curso Aplicado
 
 -Instalação e configuração de Node.js, VS Code e Cypress
 -Estrutura de testes com describe e it
@@ -44,7 +44,7 @@ Durante o desenvolvimento do WebDojo no Curso Ninja do Cypress, adquiri habilida
 -Integração com Cypress Cloud e execução em diferentes navegadores
 -Automação contínua em pipelines de CI/CD usando GitHub Actions
 
-#⚙️ Instalação e Setup
+# ⚙️ Instalação e Setup
 
 Siga os passos abaixo para rodar o projeto localmente:
 
@@ -62,7 +62,7 @@ npx cypress open
 
 Certifique-se de ter Node.js, npm e Docker instalados no seu ambiente.
 
-#💻 Funcionalidades
+# 💻 Funcionalidades
 
 O WebDojo inclui diversas funcionalidades de teste e automação:
 ✅ Testes end-to-end de login, cadastro e navegação
@@ -72,12 +72,12 @@ O WebDojo inclui diversas funcionalidades de teste e automação:
 ✅ Geração de relatórios e evidências automáticas
 ✅ Execução de testes em múltiplos navegadores e em pipelines CI/CD
 
-#📌 Status do Projeto
+# 📌 Status do Projeto
 
 🟡 Em desenvolvimento – continuo praticando e adicionando testes
 Planejo adicionar mais cenários de teste, integrações avançadas e automação contínua
 
-#📫 Autor
+# 📫 Autor
 
 Leonardo Tiodozio de França
 
