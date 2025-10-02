@@ -114,8 +114,8 @@ Planejo adicionar mais cenários de teste, integrações avançadas e automaçã
 
 Leonardo Tiodozio de França
 
-GitHub: https://github.com/seuusuario
+GitHub: https://github.com/LeonardoTiodozio
 
-LinkedIn: https://www.linkedin.com/in/seu-linkedin
+LinkedIn: https://www.linkedin.com/in/leonardo-tiodozio-de-frança-a31775307
 
 💙 Desenvolvido com dedicação, aprendizado e muito café ☕ durante o curso do mestre Fernando Papito. 🚀🔥
