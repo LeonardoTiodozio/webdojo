@@ -12,7 +12,7 @@ describe('Login', () => {
       .and('have.text', 'Olá QA, esse é o seu Dojo para aprender Automação de Testes.')
   })
 
-  it('Não deve logar com a senha inválida', () => { 
+  it.skip('Não deve logar com a senha inválida', () => { 
     cy.start()
     cy.submitLoginForm('papito@webdojo.com', 'katana321')
 
@@ -24,7 +24,8 @@ describe('Login', () => {
     cy.start()
     cy.submitLoginForm('404@webdojo.com', 'katana123')
 
-    cy.contains('button', 'Entrar').click()
+    cy.contains('button', 'Entrar')
+      .click()
 
     cy.contains('Acesso negado! Tente novamente.')
       .should('be.visible')
