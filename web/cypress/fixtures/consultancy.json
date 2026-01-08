@@ -1,0 +1,40 @@
+{
+  "personal": {
+    "name": "Leonardo Tiodozio",
+    "email": "Leo@teste.com.br",
+    "phone": "45 99999-9999",
+    "consultancyType": "individual",
+    "personType": "cpf",
+    "document": "16103899052",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriverIo",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Leonardo Tiodozio",
+    "email": "Leo@teste.com.br",
+    "phone": "45 99999-9999",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "36063651000178",
+    "discoveryChannels": ["LinkedIn"],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "techs": ["Cypress"],
+    "terms": true
+  }
+}

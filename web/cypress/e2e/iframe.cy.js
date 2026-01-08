@@ -1,7 +1,6 @@
 describe('Rodar o video', ()=> {
     it('Deve poder rodar o video de exemplo', () =>{
-        cy.start()
-        cy.submitLoginForm('papito@webdojo.com', 'katana123')
+        cy.login()
         cy.contains('Video')
             .click()
         
